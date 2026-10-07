@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="icon_512x512@2x" src="https://github.com/user-attachments/assets/3ac810b1-588e-40a1-86b2-d510238cc504" />
+<img width="256" height="256" alt="icon_512x512@2x" src="https://github.com/user-attachments/assets/3ac810b1-588e-40a1-86b2-d510238cc504" />
 
 
 <h1 align="center">Studio Themes</h1>
